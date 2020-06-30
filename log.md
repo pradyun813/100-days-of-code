@@ -6,4 +6,4 @@ Day 0 and 1:
 
 **Thoughts:** Have a cursory understanding of both the topics. Looking forward to learn more and apply these lessons to build something.
 
-**Link to work:** https://www.freecodecamp.org/learn
+**Link to work:** https://www.freecodecamp.org/pradyun
