@@ -15,3 +15,11 @@ Day 2:
 **Thoughts:** Learning how to write code to change visual elements on screen was fun and interesting. Lots of ways to get creative with your animations. 
 
 **Link to work:** https://www.freecodecamp.org/pradyun
+
+Day 3: 02/07/20
+
+**Today's Progress**: Completed the Applied Accessibility module from the Web Design course on freeCodeCamp
+
+**Thoughts:** Learning about a few more tags and attributes is ok. Putting then to use is the real test.
+
+**Link to work:** https://www.freecodecamp.org/pradyun
