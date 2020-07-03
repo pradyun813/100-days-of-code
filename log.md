@@ -23,3 +23,11 @@ Day 3: 02/07/20
 **Thoughts:** Learning about a few more tags and attributes is ok, but putting them to use is the real test.
 
 **Link to work:** https://www.freecodecamp.org/pradyun
+
+Day 4: 03/07/20
+
+**Today's Progress**: Completed the CSS Flexbox and Responsive Web modules on freeCodeCamp
+
+**Thoughts:** Felt a little lazy today. Feel better after pushing myself to keep up with this challenge.
+
+**Link to work:** https://www.freecodecamp.org/pradyun
