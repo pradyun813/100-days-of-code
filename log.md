@@ -31,3 +31,12 @@ Day 4: 03/07/20
 **Thoughts:** Felt a little lazy today. Feel better after pushing myself to keep up with this challenge.
 
 **Link to work:** https://www.freecodecamp.org/pradyun
+
+
+Day 5: 04/07/20
+
+**Today's Progress**: Completed the CSS Grid module on freeCodeCamp
+
+**Thoughts:** Need to revise what i've learnt till now before moving onto the projects.
+
+**Link to work:** https://www.freecodecamp.org/pradyun
