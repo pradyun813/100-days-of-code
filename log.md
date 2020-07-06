@@ -45,8 +45,8 @@ Day 6: Missed a day
 
 Day 7: 06/07/20
 
-**Today's Progress**:Done with the first Responsive Web design projects on freeCodeCamp
+**Today's Progress**:Done with the first Responsive Web design project on freeCodeCamp
 
-**Thoughts:** Project was fun. Took some time to align all the elements. Will get better with practice
+**Thoughts:** Project was fun. Took some time to align all the elements. Will get better with practice.
 
 **Link to work:** https://codepen.io/pradyun813/pen/VweXvmq?editors=1100
