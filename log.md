@@ -38,5 +38,15 @@ Day 5: 04/07/20
 **Today's Progress**: Completed the CSS Grid module on freeCodeCamp
 
 **Thoughts:** Need to revise what i've learnt till now before moving onto the projects.
-
 **Link to work:** https://www.freecodecamp.org/pradyun
+
+Day 6: Missed a day
+
+
+Day 7: 06/07/20
+
+**Today's Progress**:Done with the first Responsive Web design projects on freeCodeCamp
+
+**Thoughts:** Project was fun. Took some time to align all the elements. Will get better with practice
+
+**Link to work:** https://codepen.io/pradyun813/pen/VweXvmq?editors=1100
