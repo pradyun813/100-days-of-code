@@ -50,3 +50,11 @@ Day 7: 06/07/20
 **Thoughts:** Project was fun. Took some time to align all the elements. Will get better with practice.
 
 **Link to work:** https://codepen.io/pradyun813/pen/VweXvmq?editors=1100
+
+Day 8: 07/07/20
+
+**Today's Progress**:Completed the second Responsive Web design project on freeCodeCamp
+
+**Thoughts:** Took longer than expected because I was trying to make the project look presentable. The more you impliment the more you know. 
+
+**Link to work:** https://codepen.io/pradyun813/pen/RwrMJEB
