@@ -58,3 +58,12 @@ Day 8: 07/07/20
 **Thoughts:** Took longer than expected because I was trying to make the project look presentable. The more you impliment the more you know. 
 
 **Link to work:** https://codepen.io/pradyun813/pen/RwrMJEB
+
+Day 9: 08/07/20
+
+**Today's Progress**: Started the Product landing page project on freeCodecamp
+
+**Thoughts:** Little frustrating to get the layout right and have the elements display correctly.I've some figuring out to do. WIP
+
+**Link to work:** https://codepen.io/pradyun813/pen/MWKGeMO
+
