@@ -67,3 +67,10 @@ Day 9: 08/07/20
 
 **Link to work:** https://codepen.io/pradyun813/pen/MWKGeMO
 
+Day 10: 09/07/20
+
+**Today's Progress**: Inching towards completion of the Product landing page.
+
+**Thoughts:** Couldn't spend much time on this project today. Will try and complete it tomorrow. 
+
+**Link to work:** https://codepen.io/pradyun813/pen/MWKGeMO
