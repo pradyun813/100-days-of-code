@@ -74,3 +74,12 @@ Day 10: 09/07/20
 **Thoughts:** Couldn't spend much time on this project today. Will try and complete it tomorrow. 
 
 **Link to work:** https://codepen.io/pradyun813/pen/MWKGeMO
+
+
+Day 11: 10/07/20
+
+**Today's Progress**: Completed the Product landing page project on freeCodecamp
+
+**Thoughts:** Satisfied to have completed this project. Would love to learn more to improve the visual layout and responsiveness.
+
+**Link to work:** https://codepen.io/pradyun813/pen/MWKGeMO
