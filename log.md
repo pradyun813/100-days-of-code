@@ -83,3 +83,11 @@ Day 11: 10/07/20
 **Thoughts:** Satisfied to have completed this project. Would love to learn more to improve the visual layout and responsiveness.
 
 **Link to work:** https://codepen.io/pradyun813/pen/MWKGeMO
+
+Day 14: 13/07/20
+
+**Today's Progress**: Completed the Technical documentation page project on freeCodecamp
+
+**Thoughts:** Looking forward to completing the last project. Would like to develop a better understanding of responsive site/pages.
+
+**Link to work:** https://codepen.io/pradyun813/pen/OJMwMwM
