@@ -91,3 +91,10 @@ Day 14: 13/07/20
 **Thoughts:** Looking forward to completing the last project. Would like to develop a better understanding of responsive site/pages.
 
 **Link to work:** https://codepen.io/pradyun813/pen/OJMwMwM
+
+Day 15: 14/07/20
+
+**Today's Progress**:Started working on Personal Portfolio page on FCC
+
+**Thoughts:** Would have liked to complete this project today but having some issues with Codepen.
+
