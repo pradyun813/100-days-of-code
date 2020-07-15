@@ -98,3 +98,11 @@ Day 15: 14/07/20
 
 **Thoughts:** Would have liked to complete this project today but having some issues with Codepen.
 
+Day 16: 15/07/20
+
+**Today's Progress**:Finished the Personal Portfolio page.Responsive web design certification is done.
+
+**Thoughts:** Projects were fun. Have to start using relative units for sizing and spacing. Will
+be starting Javascript Module on FCC   
+
+**Link to work:** https://codepen.io/pradyun813/full/LYGJpxb
