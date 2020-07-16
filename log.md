@@ -106,3 +106,11 @@ Day 16: 15/07/20
 be starting the Javascript Module on FCC   
 
 **Link to work:** https://codepen.io/pradyun813/full/LYGJpxb
+
+Day 17: 16/07/20
+
+**Today's Progress**: Half way through the Basic Javascript module on FCC 
+
+**Thoughts:** Learnt about datatypes and declaring variables and functions. Looking forward to the challenges that lie ahead.   
+
+**Link to work:** https://www.freecodecamp.org/learn
