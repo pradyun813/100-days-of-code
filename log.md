@@ -114,3 +114,11 @@ Day 17: 16/07/20
 **Thoughts:** Learnt about datatypes and declaring variables and functions. Looking forward to the challenges that lie ahead.   
 
 **Link to work:** https://www.freecodecamp.org/learn
+
+Day 18: 17/07/20
+
+**Today's Progress**: Done with almost 80% of Basic Javascript module on FCC 
+
+**Thoughts:** Learnt to use different statements(if, else if, switch). Learning about objects now. Lets see where this goes. 
+
+**Link to work:** https://www.freecodecamp.org/learn
