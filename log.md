@@ -122,3 +122,12 @@ Day 18: 17/07/20
 **Thoughts:** Learnt to use different statements(if, else if, switch). Learning about objects now. Lets see where this goes. 
 
 **Link to work:** https://www.freecodecamp.org/learn
+
+
+Day 19: 18/07/20
+
+**Today's Progress**: Reached the Record Collection challenge on FCC
+
+**Thoughts:**  Learning about objects  is interesting and challening. Takes more effort and time to execute the code in the exercises.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
