@@ -131,3 +131,11 @@ Day 19: 18/07/20
 **Thoughts:**  Learning about objects  is interesting and challening. Takes more effort and time to execute the code in the exercises.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
+
+
+Day 20: 19/07/20
+
+**Today's Progress**: 90% done with Basic Javascript on FCC
+
+**Thoughts:** Exercises are getting more challening. Takes time to understand concepts thoroughly. Looking forward to the coming lessons.
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion
