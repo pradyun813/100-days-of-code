@@ -139,3 +139,12 @@ Day 20: 19/07/20
 
 **Thoughts:** Exercises are getting more challening. Takes time to understand concepts thoroughly. Looking forward to the coming lessons.
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion
+
+
+Day 21: 20/07/20
+
+**Today's Progress**: Completed the Basic Javascript Module on FCC
+
+**Thoughts:** My brain hurts.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers
