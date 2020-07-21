@@ -148,3 +148,11 @@ Day 21: 20/07/20
 **Thoughts:** My brain hurts.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers
+
+Day 22: 21/07/20
+
+**Today's Progress**: Half way through with the ES6 module on FCC
+
+**Thoughts:** Concepts and syntax are a bit difficult to understand. Will need to run through it again.
+
+**Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters
