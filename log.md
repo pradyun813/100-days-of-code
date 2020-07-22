@@ -156,3 +156,11 @@ Day 22: 21/07/20
 **Thoughts:** Concepts and syntax are a bit difficult to understand. Will need to run through it again.
 
 **Link to work:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters
+
+Day 23: 22/07/20
+
+**Today's Progress**: Finished the ES6 module anf half way through the Regular Exressions moodule on FCC
+
+**Thoughts:** Will need to go over the concepts used in ES6 throughly. Regular expressions are pretty straightforward till now
+
+**Link to work:** https://www.freecodecamp.org/pradyun
