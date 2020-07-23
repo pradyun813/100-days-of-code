@@ -164,3 +164,12 @@ Day 23: 22/07/20
 **Thoughts:** Will need to go over the concepts used in ES6 throughly. Regular expressions are pretty straightforward till now
 
 **Link to work:** https://www.freecodecamp.org/pradyun
+
+Day 24: 23/07/20
+
+**Today's Progress**: Finished Regular Exressions moodule on FCC
+
+**Thoughts:**  Need to see more examples with explaination to clearly understand how to use Regular Expressions.
+
+**Link to work:** https://www.freecodecamp.org/pradyun
+
