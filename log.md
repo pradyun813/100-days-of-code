@@ -173,3 +173,11 @@ Day 24: 23/07/20
 
 **Link to work:** https://www.freecodecamp.org/pradyun
 
+Day 25: 24/07/20
+
+**Today's Progress**: Went through the Debugging module on FCC
+
+**Thoughts:** Didn't spend much time learning today. Looking forward to starting the Basic Data Structures module.
+
+**Link to work:** https://www.freecodecamp.org/pradyun
+
