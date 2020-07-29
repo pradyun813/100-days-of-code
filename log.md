@@ -181,3 +181,10 @@ Day 25: 24/07/20
 
 **Link to work:** https://www.freecodecamp.org/pradyun
 
+Day 30: 29/07/20
+
+**Today's Progress**: Started solving the Basic Algorithm Scripting problems on FCC
+
+**Thoughts:** Slacked off a bit over the past few days. Jumping back on and completing tasks feels good.
+
+**Link to work:** https://www.freecodecamp.org/pradyun
