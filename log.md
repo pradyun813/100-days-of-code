@@ -188,3 +188,12 @@ Day 30: 29/07/20
 **Thoughts:** Slacked off a bit over the past few days. Jumping back on and completing tasks feels good.
 
 **Link to work:** https://www.freecodecamp.org/pradyun
+
+Day 31: 30/07/20
+
+**Today's Progress**: Last couple of projects left to solve in the Basic Algorithms module.
+
+**Thoughts:** I feel my solutions have been hammered into place.Better approach to solving problems would come with practice,i suppose.
+
+**Link to work:** https://www.freecodecamp.org/pradyun
+
