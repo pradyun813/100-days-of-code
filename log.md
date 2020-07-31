@@ -197,3 +197,10 @@ Day 31: 30/07/20
 
 **Link to work:** https://www.freecodecamp.org/pradyun
 
+Day 32: 31/07/20
+
+**Today's Progress**: Finished  Basic Algorithm Scripting and started Object Oriented Programming module on FCC
+
+**Thoughts:** Feels good to have completed the tasks. 
+
+**Link to work:** https://www.freecodecamp.org/pradyun
