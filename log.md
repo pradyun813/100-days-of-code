@@ -204,3 +204,11 @@ Day 32: 31/07/20
 **Thoughts:** Feels good to have completed the tasks. 
 
 **Link to work:** https://www.freecodecamp.org/pradyun
+
+Day 35: 03/08/20
+
+**Today's Progress**: Object Oriented Programming module completed on FCC
+
+**Thoughts:** FCC does a good job at introducing most of the concepts and topics. It has to be backed up with more reading and practice.
+
+**Link to work:** https://www.freecodecamp.org/pradyun
